@@ -92,14 +92,13 @@ export default function App() {
           <div className="flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
             <div>
               <p className="text-sm font-medium uppercase tracking-[0.3em] text-cyan-300">
-                Smart Expense Tracker
+                Avi's Smart Expense Tracker
               </p>
               <h1 className="mt-2 text-3xl font-bold text-white sm:text-4xl">
-                Track spending, spot patterns, and stay in control.
+                Command Your Capital and Take Charge of Your Cash Flow
               </h1>
               <p className="mt-3 max-w-2xl text-sm leading-6 text-slate-400 sm:text-base">
-                Add expenses, filter them by date or category, and visualize category-wise
-                spending with dynamic charts. Data persists in localStorage between sessions.
+                Master your financial trajectory with absolute precision. This platform eliminates the guesswork from your daily spending, providing a clear, logical breakdown of exactly where your resources are deployed. Track, analyze, and optimize your cash flow to build a resilient and highly calculated financial foundation.
               </p>
             </div>
 
